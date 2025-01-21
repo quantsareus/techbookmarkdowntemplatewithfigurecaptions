@@ -1,6 +1,6 @@
 
 
-markdown template to author a technical book in markdown. E.g a programming book, a scientific book, a manual or a technical documentation.
+markdown template to author a technical book with figure captions in markdown. E.g a programming book, a scientific book, a manual or a technical documentation.
 
 
 Issue
